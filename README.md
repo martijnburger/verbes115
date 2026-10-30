@@ -41,3 +41,7 @@ Netlify bouwt en publiceert de app automatisch bij elke push naar `main`; de ins
 - `src/game/`: niveaus, rondes, XP, badges en opgeslagen voortgang
 - `src/speech/`: uitspraak via de spraakfunctie van de browser
 - `src/components/`, `src/views/`: de schermen
+
+## Licentie
+
+[MIT](LICENSE): je mag de code vrij gebruiken, aanpassen en verspreiden, mits de copyrightvermelding behouden blijft.
